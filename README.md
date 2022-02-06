@@ -5,3 +5,4 @@ Changelog
 - created /_includes/video1.html  
 #### Review:
 - [toc_ref link](https://github.com/devinlife/devinlife.github.io/commit/c48ecb7cab54575bba802a3703dc5dc65d23c92c?diff=split)
+- [toc ref link2](https://devinlife.com/howto%20github%20pages/toc-table/)
