@@ -7,15 +7,15 @@ Changelog
 - added plugin(gem) in_config/yml (line 231: - jekyll-redirect-from)
 
 #### How to add video to post
-1. upload video to /asset/images
-2. create html file in /_includes/"filename".html see iframe code (ref: /asset/images/video1.html)
-3. add body in /_posts/"post".md 
+- upload video to /asset/images
+- create html file in /_includes/"filename".html see iframe code (ref: /asset/images/video1.html)
+- add body in /_posts/"post".md 
 
        {% include video1.html id="/assets/images/video1.mp4" %}  
 #### How to redirect post page -> external url
-- [Review JekyllRedirectFrom](https://github.com/jekyll/jekyll-redirect-from)
-1. add plug-in
-2. add YAML in the post
+1. [Review JekyllRedirectFrom](https://github.com/jekyll/jekyll-redirect-from)
+2. add plug-in
+3. add YAML in the post
 
        title: "abcd"
        redirect_to: https://..
