@@ -10,7 +10,7 @@ Changelog
 2. create html file in /_includes/"filename".html see iframe code (ref: /asset/images/video1.html)
 3. add body in /_posts/"post".md 
 
-      {% include video1.html id="/assets/images/video1.mp4" %}  
+       {% include video1.html id="/assets/images/video1.mp4" %}  
 
 
 #### Reference:
