@@ -8,5 +8,5 @@ Changelog
 #### Reference:
 - [toc ref link](https://github.com/devinlife/devinlife.github.io/commit/c48ecb7cab54575bba802a3703dc5dc65d23c92c?diff=split)
 - [toc ref link2](https://devinlife.com/howto%20github%20pages/toc-table/)
-- [how to insert mp4: blog1](https://seanlion.github.io/blog/4) 
-- [how to insert mp4: blog2](https://ttoj.github.io/diary/github/How_to_insert_mp4_on_GitHub_blog/)
+- [how to insert mp4: seanlion blog1](https://seanlion.github.io/blog/4) 
+- [how to insert mp4: TToJ blog2](https://ttoj.github.io/diary/github/How_to_insert_mp4_on_GitHub_blog/)
