@@ -10,7 +10,7 @@ knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, 
   encoding = encoding, 
   output_file=paste0(Sys.Date(), "-", sub(".Rmd", ".md",inputFile)), 
-  output_dir = "~/eroubenoff.github.io/_posts") })
+  output_dir = "~/selgik.github.io/_posts") })
 layout: post
 tags: [jekyll, r-markdown]
 always_allow_html: true
