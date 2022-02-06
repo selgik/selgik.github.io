@@ -17,7 +17,7 @@ title: Prepare Survey
 toc: true
 toc_sticky: true
 toc_label: "Prepare Survey"
-  collapsed: false
+collapsed: false
 ---
 
 ## Table of Contents
