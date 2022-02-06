@@ -38,3 +38,8 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+
+```
+date: 2022-02-06: this one doesn't work. need to remove along with /assets/splash folder
+```
