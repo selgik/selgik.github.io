@@ -14,6 +14,10 @@ output:
   - jekyll
   - r-markdown
 title: Prepare Survey
+toc: true
+toc_sticky: true
+toc_label: "Prepare Survey"
+
 ---
 
 ## Table of Contents
