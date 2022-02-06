@@ -288,3 +288,13 @@ defaults:
       comments: # true
       share: true
       related: true
+ 
+ 
+ #2022-02-06 added manually
+ defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single     
