@@ -20,12 +20,6 @@ toc_label: "Prepare Survey"
 collapsed: FALSE
 ---
 
-## Table of Contents
-* Motivation
-* Key Concepts
-* Applying Key Concepts 
-* Remarks
-
 ## Motivation
 ### 1. Task
 Let's say... recently I led training for 1,000 staffs. I want to know whether staffs were satisfied with the training contents.Depending on the survey results, I may have to restructure or continue with the current program. I prepare survey questions and ask other colleauges to review to ensure questions are unbiased and fair. 
