@@ -90,9 +90,9 @@ However, if I am casually seeking feedback and want to know about general satisf
 As sample size increases, the results more closely resemble the normal (bell-shaped) distribution. A sample of 30 is the smallest sample size for which the Central limit theorem (CLT) is still valid.
 
 ** Calculate sample size under 3.(2)
-I used sample size calculator. Ex: https://www.surveymonkey.com/mp/sample-size-calculator/
+I used sample size calculator. [Link 1](https://www.surveymonkey.com/mp/sample-size-calculator/)
        
 ***Calculate margin of error under 3.(3)
-I used margin of error calculator. Ex: https://www.surveymonkey.com/mp/margin-of-error-calculator/
+I used margin of error calculator. [Link 2](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
 
 *End*
