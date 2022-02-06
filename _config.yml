@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Sylvia K"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png"
   bio              : "Curious about numbers, data and stories behind them!"
   location         : "Singapore"
   email            :
