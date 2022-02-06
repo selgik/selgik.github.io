@@ -17,9 +17,8 @@ Changelog
 1. add plug-in
 2. add YAML in the post
 
-       title: My amazing post
-       redirect_from:
-       /post/123456789/
+       title: "abcd"
+       redirect_to: https://..
 
 #### Reference:
 - [jekyll doc](https://jekyllrb.com/docs/posts/)
