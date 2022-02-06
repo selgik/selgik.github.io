@@ -39,7 +39,7 @@ b. How should I interpret the results?
 ### 3. Motivation
 I want to determine optimal sample size and understand how to interpret the survey results.
               
-## KEY CONCEPTS
+## Key Concepts
 ### 1. Population vs Sample
 I cannot survey all 1,000 staffs. I want to survey the portion that can represent the 1,000 staffs. I plan to survey only 50. Can I expect that sample size will give an accurate insight?  
    
@@ -84,8 +84,8 @@ In order to calculate the sample size**, I need population size, confidence leve
 If I have population size, sample size and confidence level (%) I could calculate margin of error***. Let's assume I target 95% confidence level for surveying 100 staffs out of 1,000 population. Margin of error would be at ~9%. 
 
 ## Remarks
-### 1. Does it always matter to have a statistically significant sample size?
-The answer is yes and no. It will depend on the types, circumtances or industries etc. Let's say the department's head wants to restructure training program depending on the satisfaction rate from the survey. For this case, running survey with statistically significant sample size will matter.  
+### 1. Does it always matter?
+Does it always matter to have a statistically significant sample size? The answer is yes and no. It will depend on the types, circumtances or industries etc. Let's say the department's head wants to restructure training program depending on the satisfaction rate from the survey. For this case, running survey with statistically significant sample size will matter.  
        
 However, if I am casually seeking feedback and want to know about general satisfaction rate, whether we have statistically significant sample size or not, will not matter that much. What will matter more is, feedback, improvement ideas and suggestsions that will be submitted by the staffs.
 
