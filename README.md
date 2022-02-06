@@ -12,7 +12,14 @@ Changelog
 3. add body in /_posts/"post".md 
 
        {% include video1.html id="/assets/images/video1.mp4" %}  
+#### How to redirect post page -> external url
+- [Review JekyllRedirectFrom](https://github.com/jekyll/jekyll-redirect-from)
+1. add plug-in
+2. add YAML in the post
 
+       title: My amazing post
+       redirect_from:
+       /post/123456789/
 
 #### Reference:
 - [jekyll doc](https://jekyllrb.com/docs/posts/)
