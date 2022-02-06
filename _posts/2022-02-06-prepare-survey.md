@@ -1,21 +1,19 @@
 ---
-title: "Prepare Survey"
-author: "Syvia K"
-date: "2020-02-06"
 output:
+  always_allow_html: true
+  author: Sylvia K
+  date: 2022-02-06
+  excerpt: test
+  knit: "(function (inputFile, encoding) { rmarkdown::render(inputFile,
+    encoding=encoding, output_dir= “\\~/selgik.github.io/\\_posts”)})"
+  layout: post
   md_document:
+    preserve_yaml: true
     variant: gfm
-    preserve_yaml: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, 
-  encoding = encoding, 
-  output_file=paste0(Sys.Date(), "-", sub(".Rmd", ".md",inputFile)), 
-  output_dir = "~/selgik.github.io/_posts") })
-layout: post
-tags: [jekyll, r-markdown]
-always_allow_html: true
-toc_sticky: true
-
+  tags:
+  - jekyll
+  - r-markdown
+title: test
 ---
 
 ## TABLE OF CONTENTS:
