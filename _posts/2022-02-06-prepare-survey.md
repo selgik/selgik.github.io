@@ -22,8 +22,6 @@ title: Prepare Survey
 * Applying Key Concepts 
 * Remarks
 
-***
-
 ## Motivation
 ### 1. Task
 Let's say... recently I led training for 1,000 staffs. I want to know whether staffs were satisfied with the training contents.Depending on the survey results, I may have to restructure or continue with the current program. I prepare survey questions and ask other colleauges to review to ensure questions are unbiased and fair. 
@@ -36,8 +34,7 @@ b. How should I interpret the results?
        
 ### 3. Motivation
 I want to determine optimal sample size and understand how to interpret the survey results.
-       
-***       
+              
 ## KEY CONCEPTS
 ### 1. Population vs Sample
 I cannot survey all 1,000 staffs. I want to survey the portion that can represent the 1,000 staffs. I plan to survey only 50. Can I expect that sample size will give an accurate insight?  
@@ -69,7 +66,6 @@ The probability of getting meaningful results is statistical power.
 a. Statistical power is the probability of getting meaningful results (statistically significant) results.  
 b. Tip: Typically, having at least 80% of statistical power is considered for results to be satistically significant.
 
-***
 ## Applying Key Concepts 
 ### 1. Interpret Results 
 Let's assume I ran the survey with randomly chosen 50 staffs and the result said 30 of them (60%) gave positive rating on training, while the rest 20 staffs (40%) gave negative rating. Provided that the confidence level is 90%, I can calculate margin of error as ~11%. That means, there are 90% chance that the 1,000 staffs' positive response would fall between 49% - 71%.  
@@ -82,8 +78,6 @@ In order to calculate the sample size**, I need population size, confidence leve
    
 ### 3. Calculate Margin of Error
 If I have population size, sample size and confidence level (%) I could calculate margin of error***. Let's assume I target 95% confidence level for surveying 100 staffs out of 1,000 population. Margin of error would be at ~9%. 
-
-***
 
 ## Remarks
 ### 1. Does it always matter to have a statistically significant sample size?
