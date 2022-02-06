@@ -4,6 +4,7 @@ Changelog
 - created posts/template, posts/2022-02-06/..
 - created /_includes/video1.html  
 - added video1.mp4 to asset/images/
+- added plugin(gem) in_config/yml (line 231: - jekyll-redirect-from)
 
 #### How to add video to post
 1. upload video to /asset/images
