@@ -6,7 +6,7 @@ date: 2020-04-08
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/coffee.jpeg
+  overlay_image: /assets/splash/pic3_r.png
 
   actions:
     - label: "Download"
