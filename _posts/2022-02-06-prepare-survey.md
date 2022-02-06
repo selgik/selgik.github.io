@@ -14,6 +14,8 @@ knit: (function(inputFile, encoding) {
 layout: post
 tags: [jekyll, r-markdown]
 always_allow_html: true
+toc_sticky: true
+
 ---
 
 ## TABLE OF CONTENTS:
