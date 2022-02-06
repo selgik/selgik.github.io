@@ -30,7 +30,7 @@ Let's say... recently I led training for 1,000 staffs. I want to know whether st
        
 ### 2. Problem
 a. How many should I survey?   
-I cannot survey 1,000 staffs as it will cost a lot. I cannot survey 10 staffs either and assume the result would truly represent the whole staffs's opinion.
+I cannot survey 1,000 staffs as it will cost a lot. I cannot survey 10 staffs either and assume the result would truly represent the whole staffs's opinion.  
 b. How should I interpret the results?  
 60% responded A and 40% reponded B. What else is hidden behind those numbers?
        
