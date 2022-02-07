@@ -152,4 +152,4 @@ WITH temp AS (
 ~~~
 -> Finding: Results between Tableau and BigQuery are similar except for HPD. (Why huge difference for HPD?)
 
-*END
+*END*
