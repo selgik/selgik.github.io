@@ -23,6 +23,9 @@ title: Tableau Note (Part 2/2)
 ### Project Workflow
 * Clean and review data in SQL -> **visualize findings in Tableau**
 
+### Tool Used
+* Tableau Desktop
+
 ## Part 2: Tableau Note
 ### Track Issues and solutions
 
