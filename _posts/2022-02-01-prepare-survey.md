@@ -16,7 +16,7 @@ output:
 title: Prepare Survey
 toc: true
 toc_sticky: true
-toc_label: "Prepare Survey"
+toc_label: "Basic Concepts for Statistics"
 collapsed: FALSE
 ---
 
@@ -93,4 +93,6 @@ I used sample size calculator. [Link 1](https://www.surveymonkey.com/mp/sample-s
 ***Calculate margin of error under 3.(3)
 I used margin of error calculator. [Link 2](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
 
-*End*
+*This is my study note from coursera's Google Data Analytics Professional program*
+
+End
