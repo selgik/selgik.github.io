@@ -41,7 +41,7 @@ FROM bigquery-public-data.new_york_311.311_service_requests
 WHERE status = "Closed" 
   AND closed_date IS NULL
 ~~~
-Finding: There are 2283 cases where status is "Closed" but no closed_date is provided.
+-> Finding: There are 2283 cases where status is "Closed" but no closed_date is provided.
 
 
 #### Question 3: How many status type are there? 
@@ -49,7 +49,7 @@ Finding: There are 2283 cases where status is "Closed" but no closed_date is pro
 SELECT DISTINCT status
 FROM bigquery-public-data.new_york_311.311_service_requests
 ~~~
-Finding: There are 13 types. Status types to be considered when visualiziaing dataset are: Cancel/Cancelled, Closed, Rest.
+-> Finding: There are 13 types. Status types to be considered when visualiziaing dataset are: Cancel/Cancelled, Closed, Rest.
 
 
 #### Question 4: What is the percentage of each status?
@@ -73,7 +73,7 @@ FROM
 ORDER BY 
     percentage_total DESC
 ~~~
-Finding: Around 96% of cases are closed. 
+-> Finding: Around 96% of cases are closed. 
 
 
 #### Question 5: Ensure that all cases are assigned with its status
@@ -82,7 +82,7 @@ SELECT status
 FROM bigquery-public-data.new_york_311.311_service_requests
 WHERE status IS NULL
 ~~~
-Finding: no null value found under status column.
+-> Finding: no null value found under status column.
 
 
 #### Question 6: What are the top complaints? 
@@ -92,7 +92,7 @@ FROM bigquery-public-data.new_york_311.311_service_requests
 GROUP BY complaint_type
 ORDER BY counts DESC
 ~~~
-Finding: Noise-residential > heat/hot water > illegal parking
+-> Finding: Noise-residential > heat/hot water > illegal parking
 
 
 #### Question 7: Who are the top agency handling the requests?
@@ -102,7 +102,7 @@ FROM bigquery-public-data.new_york_311.311_service_requests
 GROUP BY agency_name
 ORDER BY counts DESC
 ~~~
-Finding: New York City Police Department > Department of Housing Preservation and Development > Department of Transportation
+-> Finding: New York City Police Department > Department of Housing Preservation and Development > Department of Transportation
 
 
 #### Question 8: Which year did the requests hit the most number?
@@ -114,7 +114,7 @@ FROM bigquery-public-data.new_york_311.311_service_requests
 GROUP BY year
 ORDER BY counts desc
 ~~~
-Finding: 2018 > 2020 > 2017
+-> Finding: 2018 > 2020 > 2017
 
 
 #### Question 9: Calculate average time required for request to be closed. Verify results.
@@ -140,6 +140,6 @@ WITH temp AS (
     (SELECT COUNT(*) FROM capable-blend-330013.new_york_311.5years WHERE agency="HPD" AND closed_date IS NOT NULL)
     FROM temp
 ~~~
-Finding: Results between Tableau and BigQuery are similar except for HPD. (Why huge difference for HPD?)
+-> Finding: Results between Tableau and BigQuery are similar except for HPD. (Why huge difference for HPD?)
 
 * END
