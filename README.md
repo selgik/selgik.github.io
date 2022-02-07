@@ -6,7 +6,9 @@ I am using this page to track changes, leave notes and reference pages. To revie
 2. Helpful read: [Blog ref](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/)
 
 ## 2022-02-07
-- change date format under /_posts to re-arrange the order of posts.
+- changed date format under /_posts to re-arrange the order of posts.
+- added one more navigation (tableau demo) under _data/navigation.yml
+
 #### Reference
 - [jekyll blog basic-kokr](https://dreamgonfly.github.io/blog/jekyll-remote-theme/)
 
