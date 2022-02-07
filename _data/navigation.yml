@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Go to GitHub"
-    url: https://github.com/selgik
+  - title: "Home"
+    url: https://selgik.github.io/
   - title: "Dashboard Demo"
     url: https://public.tableau.com/app/profile/sylvia.kim
   # - title: "Sample Posts"
