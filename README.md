@@ -1,4 +1,7 @@
 Changelog
+## To-do
+1. Add Splash (home page) [forum ref](https://talk.jekyllrb.com/t/minimal-mistakes-home-page/3540)
+2. Helpful read [Blog ref](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/)
 
 ## 2022-02-07
 - change date format under /_posts to re-arrange the order of posts.
