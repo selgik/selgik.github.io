@@ -3,7 +3,7 @@ main:
   - title: "Go to GitHub"
     url: https://github.com/selgik
   - title: "Dashboard Demo"
-     url: https://public.tableau.com/app/profile/sylvia.kim
+    url: https://public.tableau.com/app/profile/sylvia.kim
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
