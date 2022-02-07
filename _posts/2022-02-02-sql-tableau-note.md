@@ -12,7 +12,7 @@ output:
     variant: gfm
   tags:
   - jekyll
-title: SQL Code Review
+title: SQL/Tableau Code Note
 ---
 
 ## Overview
