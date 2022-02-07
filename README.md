@@ -4,8 +4,6 @@ Changelog
 - change date format under /_posts to re-arrange the order of posts.
 #### Reference
 - [jekyll blog basic-kokr](https://dreamgonfly.github.io/blog/jekyll-remote-theme/)
-- [apply theme-kokr](https://junhobaik.github.io/jekyll-apply-theme/)
-- [Jekyll theme](http://jekyllthemes.org/)
 
 ## 2022-02-06
 - created posts/template, posts/2022-02-06/..
