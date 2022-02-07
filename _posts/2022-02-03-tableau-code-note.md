@@ -52,5 +52,5 @@ When I used parameter control, one of chart showed blank result.
     https://www.tableau.com/about/blog/2012/7/filtering-parameters-18326
 
 #### Review Tableau Dashboard in Action
-Go to the post [Data Visualization](https://selgik.github.io/data-viz/) and review Project 3.
+Go to the post [Data Visualization](https://selgik.github.io/data-viz/) and review Project 3.  
 *END*
