@@ -1,5 +1,8 @@
 Changelog
 
+## 2022-02-07
+- change date format under /_posts to re-arrange the order of posts.
+
 ## 2022-02-06
 - created posts/template, posts/2022-02-06/..
 - created /_includes/video1.html
