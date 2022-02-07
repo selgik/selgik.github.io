@@ -3,7 +3,7 @@ Changelog
 ## 2022-02-07
 - change date format under /_posts to re-arrange the order of posts.
 #### Reference
-[jekyll blog basic-kokr](https://dreamgonfly.github.io/blog/jekyll-remote-theme/)
+- [jekyll blog basic-kokr](https://dreamgonfly.github.io/blog/jekyll-remote-theme/)
 
 
 ## 2022-02-06
