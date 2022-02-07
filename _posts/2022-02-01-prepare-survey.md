@@ -13,10 +13,10 @@ output:
   tags:
   - jekyll
   - r-markdown
-title: Prepare Survey
+title: Basic Concepts for Statistics
 toc: true
 toc_sticky: true
-toc_label: "Basic Concepts for Statistics"
+toc_label: "Prepare Survey"
 collapsed: FALSE
 ---
 
