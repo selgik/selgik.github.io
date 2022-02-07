@@ -1,5 +1,5 @@
 # Changelog
-I am using this page to track changes, leave notes and reference pages. To review original README.md, please go to this [link](mmistakes/minimal-mistakes)
+I am using this page to track changes, leave notes and reference pages. To review original README.md, please go to this [link](https://github.com/mmistakes/minimal-mistakes)
 
 ## To-do
 1. Add Splash (home page): [forum ref](https://talk.jekyllrb.com/t/minimal-mistakes-home-page/3540)
