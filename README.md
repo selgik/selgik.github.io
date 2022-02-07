@@ -27,4 +27,4 @@ Changelog
 - [toc ref link2](https://devinlife.com/howto%20github%20pages/toc-table/)
 - [how to insert mp4: seanlion blog1](https://seanlion.github.io/blog/4) 
 - [how to insert mp4: TToJ blog2](https://ttoj.github.io/diary/github/How_to_insert_mp4_on_GitHub_blog/)
-- [RMD to MD compliling reference](http://www.eroubenoff.net/2021-03-10-rmarkdown_jekyll/)
+- RMD to MD compliling reference: [eroubenoff blog](http://www.eroubenoff.net/2021-03-10-rmarkdown_jekyll/)
