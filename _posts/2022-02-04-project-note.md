@@ -60,7 +60,7 @@ h. sheet_2: raw data sheet where fed data from the form will be organized.
 i. sheet_3: calculation sheet where pivot tables and other calculations will be performed.  
          
 ### (2) Step 2 - enter data (ref: 2(1)a)
-a. What do I want to do? I want:
+a. What do I want to do? I want:  
 . User to feed (select or type) date, day type (full day/half day) and project hour.  
 . User to optionally feed activity hour to analyze how remaining hours are used.  
 . Fed data to be organized in table format in a spearate sheet.  
@@ -76,10 +76,10 @@ a. Create pivot tables
 
 b. Hide the sheet   
 . To avoid confusion and breaking the format, all sheets will be protected except where user is feeding data in the form.  
-. Additinoally, this sheet_3 will be hidden as users do not need to see background data (table, pivot, reference list etc.)  
+. Additinoally, sheet_3 will be hidden as users do not need to see background data (table, pivot, reference list etc.)  
          
 ### (4) Step 4 - data visualization    
-a. Decide optimal chart type  
+Decide optimal chart type  
 . 2(1)c: donut chart.  
 . 2(1)d: bar or line chart.  
 . 2(1)e: donut chart combining with horizontal bar chart showing top ranks in remaining hour section.   
@@ -96,7 +96,7 @@ b. Ask questions
 
 | Worksheet Name | Description |
 | :---   | :- |
-| a. sheet_1  | main dashboard sheet containing form, bulletin, charts and table.  |
+| a. sheet_1  | main dashboard sheet containing form, bulletin, charts.  |
 | b. sheet_2  | raw data sheet where fed data from the form will be organized.  |
 | c. sheet_3  | calculation sheet where pivot tables and other calculations will be performed.  |
 
@@ -114,7 +114,6 @@ b. Ask questions
 
 ## 4. Final Deliverable
 - User has one-stop page where they can feed the data and review the status/progress/analysis with visual aids in real time.   
-- This dashboard can be utilized by those who needs to track or hit the tageted hour.  
-Ex. operation center such as call center where each individual has targeted hour to hit.
+- This dashboard can be utilized by those who needs to track or hit the tageted hour. (Ex. operation center such as call center where each individual has targeted hour to hit.)    
 
 *END* 
