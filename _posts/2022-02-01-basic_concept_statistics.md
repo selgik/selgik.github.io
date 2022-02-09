@@ -13,7 +13,7 @@ output:
   tags:
   - jekyll
   - r-markdown
-title: Basic Concepts for Statistics
+title: Basic Concepts of Statistics
 toc: true
 toc_sticky: true
 toc_label: "Prepare Survey"
