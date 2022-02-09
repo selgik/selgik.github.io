@@ -50,7 +50,7 @@ I will have one-page dashboard:
 a. 1st component will be the form, user will be updating last working day's project hour.  
 b. 2nd component will be the bulletin where calculated remaining hour for given week is announced.  
 c. 3rd component will be a chart showing progress against the goal for the last working day.  
-d. 4th component will be a chart showing daily progress (time spent on project hour) for a given month.
+d. 4th component will be a chart showing daily progress (time spent on project hour) for a given month.  
 e. 5th component will be a chart analyzing activies on reamining hours.  
 f. 6th component will be a table showing monthly summary.  
          
