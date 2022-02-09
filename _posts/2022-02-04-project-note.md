@@ -36,7 +36,7 @@ b. I work hard everyday but I cannot meet the assigned goal. I do not know how c
 ### (3) Motivtaion
 a. I want to be free from calculating remaining hours to meet average goal.  
 b. I want analyze my time and find the area of improvement. I want to know where am I spending rest of my time and how can I adjust to meet targeted project hour.  
-c. I do not use multiple platform. A dashboard solving both problem a and b, would be helpful.  
+c. I do not want to use multiple platform. A dashboard solving both problem a and b, would be helpful.  
          
 ## 2. Process Design 
     Overall workflow: 
