@@ -12,7 +12,7 @@ output:
     variant: gfm
   tags:
   - jekyll
-title: (P3) SQL Code Note
+title: P3/ SQL Code Note
 ---
 
 ## Overview
