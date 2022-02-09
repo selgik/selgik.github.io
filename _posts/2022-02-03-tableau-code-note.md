@@ -16,7 +16,8 @@ title: P3/ Tableau Note
 ---
 
 ## Overview
-This is the part 2 of project note. See the final deliverable in this [post](https://selgik.github.io/data-viz/) (Project#3). 
+* This is the part 2 of project note.  
+* See the final deliverable in this [post](https://selgik.github.io/data-viz/) (Project#3). 
 
 ### Project Workflow
 * Clean and review data in SQL -> **visualize findings in Tableau**
