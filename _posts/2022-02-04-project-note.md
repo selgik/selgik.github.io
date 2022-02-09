@@ -27,7 +27,7 @@ title: P1/ Project Note
 
 ## 1. Motivation 
 ### (1) Task
-I need to spend certain amount of time (for example: at least 5.5h) or hit targetted hour on assigned project every day. Although I can work flexibly, as working on project 8h one day and 2h on another day, it is recommended to meet average daily goal of mentioned 5.5h.  
+I need to spend certain amount of time or hit targetted hour (for example: at least 5.5h) on assigned project every day. Although I can work flexibly, as working on project 8h one day and 2h on another day, it is recommended to meet average daily goal of mentioned 5.5h.  
 
 ### (2) Problem
 a. I need to manually calculate the project time to meet daily, weekly and monthly goal.  
