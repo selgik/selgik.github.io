@@ -55,7 +55,7 @@ e. 5th component will be a chart analyzing activies on reamining hours.
 f. 6th component will be a table showing monthly summary.  
          
 I will have 3 spreadsheet:  
-g. sheet_1: main dashboard sheet containing form, bulletin, charts and table. User's main page.
+g. sheet_1: main dashboard sheet containing form, bulletin, charts and table. User's main page.  
 h. sheet_2: raw data sheet where fed data from the form will be organized.  
 i. sheet_3: calculation sheet where pivot tables and other calculations will be performed.  
          
