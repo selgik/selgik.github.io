@@ -15,6 +15,9 @@ output:
   - r-markdown
 title: P1/ Project Note
 ---
+## Overview 
+* This is the part 1 of project note.  
+* See the final deliverable in this [post](https://selgik.github.io/data-viz/) (Project#1). 
 
 ## Table of Contents
 1. Motivation  
