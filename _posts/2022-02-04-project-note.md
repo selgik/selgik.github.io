@@ -31,7 +31,7 @@ I need to spend certain amount of time or hit targetted hour (for example: at le
 
 ### (2) Problem
 a. I need to manually calculate the project time to meet daily, weekly and monthly goal.  
-b. I work hard everyday but I cannot meet the assigned goal. I do not know how I can improve and where I am spending my time.
+b. I work hard everyday but I cannot meet the assigned goal. I do not know how can I improve and where am I spending my time.
 
 ### (3) Motivtaion
 a. I want to be free from calculating remaining hours to meet average goal.  
