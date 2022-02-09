@@ -12,16 +12,18 @@ output:
     variant: gfm
   tags:
   - jekyll
-title: Tableau Note (Part 2/2)
+title: P3/ Tableau Note
 ---
 
 ## Overview
-### Information about data source
-* Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
-* Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily.311 is a non-emergency number that provides access to non-emergency municipal services.
+This is the part 2 of project note. See the final deliverable in this [post](https://selgik.github.io/data-viz/) (Project#3). 
 
 ### Project Workflow
 * Clean and review data in SQL -> **visualize findings in Tableau**
+
+### Information about data source
+* Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
+* Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services.
 
 ### Tool Used
 * Tableau Desktop
