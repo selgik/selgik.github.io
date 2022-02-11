@@ -16,7 +16,7 @@ output:
 title: P1/ Project Note
 ---
 ## Overview 
-* This is the part 1 of project note.  
+* This is the part 1 of project#1 note.  
 * See the final deliverable in this [post](https://selgik.github.io/data-viz/) (Project#1). 
 
 ## Table of Contents
