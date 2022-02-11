@@ -1,4 +1,4 @@
-# Changelog
+# Change Log
 I am using this page to track changes, leave notes and reference pages. To review original README.md, please go to this [link](https://github.com/mmistakes/minimal-mistakes)
 
 ## To-do
