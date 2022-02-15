@@ -33,7 +33,7 @@ title: P3/ Tableau Note
 ### Track Issues and solutions
 
 #### 1. Situation
-I want to analyze top 10 complaints type out of 431. Instead of having 10 charts for each rank, I want to use filter so that I can see one rank chart each time.
+I want to analyze top 10 complaints type out of 431.  
   
 #### 2. Problem
 I try to use Top N item as filter, but filter card shows me the whole list of complaint type.
