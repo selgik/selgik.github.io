@@ -35,7 +35,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 <!--- Below is needed to add intro --->
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
 <!--- Below is needed to add row division --->
 {% include feature_row %}
