@@ -20,13 +20,13 @@ feature_row:
     excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
   - image_path: /assets/splash/pic2_t.png
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--secondar"
+    btn_class: "btn--default"
   - image_path: /assets/splash/pic3_r.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
