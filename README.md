@@ -26,9 +26,9 @@ I am using this page to track changes, leave notes and reference pages. To revie
 - changed navigation setting: /_data/navigation.yml
 
 #### How to add video to post
-- upload video to /asset/images
-- create html file in /_includes/"filename".html see iframe code (ref: /asset/images/video1.html)
-- add body in /_posts/"post".md 
+1. upload video to /asset/images
+2. create html file in /_includes/"filename".html see iframe code (ref: /asset/images/video1.html)
+3.  add body in /_posts/"post".md 
 
        {% include video1.html id="/assets/images/video1.mp4" %}  
 #### How to redirect post page -> external url
