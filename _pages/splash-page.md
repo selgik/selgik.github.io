@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/splash/da.jpg
 
-actions:
+  actions:
     - label: "Read Posts"
       url: "https://selgik.github.io/"
       
