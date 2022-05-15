@@ -12,3 +12,4 @@ header:
 excerpt: "Check out my latest data analytic projects here!"
 ---
 
+{% include feature_row id="intro" type="center" %}
