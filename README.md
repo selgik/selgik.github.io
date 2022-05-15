@@ -1,9 +1,15 @@
 # Change Log
 I am using this page to track changes, leave notes and reference pages. To review original README.md, please go to this [link](https://github.com/mmistakes/minimal-mistakes)
 
-## To-do
-1. Add Splash (home page): [forum ref](https://talk.jekyllrb.com/t/minimal-mistakes-home-page/3540)
-2. Helpful read: [Blog ref](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/)
+## 2022-05-15
+- working on splash page (ref [Jan's blog](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/), [Raw Gist](https://gist.githubusercontent.com/Rainymood/35ae7d900f4d8a3d3199ee20fefe2567/raw/6722ecc4e160196b9d1aae01d91ca4d51e522e46/splash-page.md))
+- nulled previously created splash-page.md by changing its name as splash-page.md2
+- created new one with its name as splash-page.md
+
+- changed minimal_mistakes_skin from air to contrast on config.yml
+- removed title name on config.yml
+- changed url on _data/navigation.yml 
+- added "Posts" section on _data/navigation.yml 
 
 ## 2022-02-07
 - changed date format under /_posts to re-arrange the order of posts.
