@@ -9,6 +9,8 @@ header:
   actions:
     - label: "Learn More"
       url: "https://selgik.github.io/"
+
+excerpt: "Welcome to my blog! My name is Sylvia and I am curious about numbers, data and stories behind them. Check out my latest data analytic projects below!"
       
 intro: 
   - excerpt: 'Welcome to my blog! My name is Sylvia and I am curious about numbers, data and stories behind them. Check out my latest data analytic projects below!'
