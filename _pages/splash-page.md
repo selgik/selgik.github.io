@@ -3,9 +3,8 @@ title: "Sylvia's Learning Log"
 layout: splash
 permalink: /splash-page/
 header:
-  overlay_color: "#000"
+  overlay_color: "#333"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/da.jpg
 
   actions:
     - label: "Learn More"
@@ -34,6 +33,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
+
+<!--- 
+ header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/splash/da.jpg
+--->
+
 <!--- Below is needed to add intro --->
 {% include feature_row id="intro" type="center" %}
 
