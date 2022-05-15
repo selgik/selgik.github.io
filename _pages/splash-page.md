@@ -7,10 +7,10 @@ header:
   overlay_filter: "0.8"
 
   actions:
-    - label: "Learn More"
+    - label: "Read More"
       url: "https://selgik.github.io/"
 
-excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, Tableau, SQL and R.
+excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, Tableau, SQL and R."
 
   
 feature_row:
