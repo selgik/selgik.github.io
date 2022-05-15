@@ -8,11 +8,11 @@ header:
   overlay_image: /assets/splash/da.jpg
 
   actions:
-    - label: "Read Posts"
+    - label: "Learn More"
       url: "https://selgik.github.io/"
       
 intro: 
-  - excerpt: 'Check out my latest data analytic projects here!'
+  - excerpt: 'I am curious about numbers, data and stories behind them! And I love solving problems with Macro, SQL, Tableau and R! Check out my latest data analytic project below!'
   
 feature_row:
   - image_path: /assets/splash/pic1_e.png
