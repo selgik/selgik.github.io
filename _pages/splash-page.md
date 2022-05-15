@@ -10,7 +10,7 @@ header:
     - label: "Learn More"
       url: "https://selgik.github.io/"
 
-excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, Tableau, SQL and R. Check out my latest data analytic projects below!"
+excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, Tableau, SQL and R.
 
   
 feature_row:
