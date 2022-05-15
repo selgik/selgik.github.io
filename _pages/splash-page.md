@@ -3,9 +3,8 @@ title: "Sylvia's Learning Log"
 layout: splash
 permalink: /splash-page/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/splash/da1.jpg
+  overlay_color: "#333"
+  overlay_filter: "0.8"
 
 excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, SQL, Tableau and R."
 
@@ -33,12 +32,9 @@ feature_row:
 
 <!--- 
  header:
-  overlay_color: "#333"
-  overlay_filter: "0.8"
-
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/da.jpg
+  overlay_image: /assets/splash/da1.jpg
 
   actions:
     - label: "Read More"
