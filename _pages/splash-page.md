@@ -16,19 +16,19 @@ intro:
   
 feature_row:
   - image_path: /assets/splash/pic1_e.png
-    title: "Placeholder 1"
+    title: "Excel VBA Project"
     excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic2_t.png
-    title: "Placeholder 2"
+    title: "Tableau Dashboards Project"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic3_r.png
-    title: "Placeholder 3"
+    title: "R Markdown Review"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
