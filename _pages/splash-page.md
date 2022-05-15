@@ -1,11 +1,11 @@
 ---
-title: "Sylvia's Blog"
+title: "Sylvia's Learning Log"
 layout: splash
 permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/da.png
+  overlay_image: /assets/splash/ds.jpg
   
   actions:
     - label: "Download"
