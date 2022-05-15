@@ -23,13 +23,13 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic2_t.png
     title: "Tableau Dashboards"
-    excerpt: "Dynamic dashboards will help user to gain insights quickly"
+    excerpt: "Dynamic dashboards will help user to gain insights more quickly"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic3_r.png
     title: "R Markdown Review"
-    excerpt: "Have you tried famicom? Different disk loads in different games. Same with R."
+    excerpt: "Have you tried famicom? Different disk loads in different games. Same with R"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
