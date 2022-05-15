@@ -17,19 +17,19 @@ intro:
 feature_row:
   - image_path: /assets/splash/pic1_e.png
     title: "Excel VBA Project"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    excerpt: "You can automate data entry and visualization process with Excel VBA"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic2_t.png
     title: "Tableau Dashboards"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Dynamic dashboards will help user to gain insights quickly"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic3_r.png
     title: "R Markdown Review"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Have you tried famicom? Different disk loads in different games. Same with R."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
