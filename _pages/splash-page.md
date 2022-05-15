@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic2_t.png
-    title: "Tableau Dashboards Project"
+    title: "Tableau Dashboards"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
