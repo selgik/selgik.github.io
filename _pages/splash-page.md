@@ -4,7 +4,7 @@ layout: splash
 permalink: /splash-page/
 header:
   overlay_color: "#333"
-  overlay_filter: "0.2"
+  overlay_filter: "0.5"
 
 excerpt: "Curious about numbers, data and stories behind them.    Love solving problems with VBA, SQL, Tableau and R."
 
