@@ -10,8 +10,10 @@ header:
   actions:
     - label: "Download"
       url: "#test-link"
-excerpt: "Check out my latest data analytic projects here!"
-
+      
+intro: 
+  - excerpt: 'Check out my latest data analytic projects here!'
+  
 feature_row:
   - image_path: /assets/splash/pic1_e.png
     title: "Placeholder 1"
@@ -32,5 +34,8 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+<!--- Below is needed to add intro --->
+{% include feature_row id="intro" type="left" %}
 
+<!--- Below is needed to add row division --->
 {% include feature_row %}
