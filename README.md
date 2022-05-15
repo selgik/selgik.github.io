@@ -3,7 +3,7 @@ I am using this page to track changes, leave notes and reference pages. To revie
 
 ## 2022-05-15
 - working on splash page (ref [Jan's blog](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/), [Raw Gist](https://gist.githubusercontent.com/Rainymood/35ae7d900f4d8a3d3199ee20fefe2567/raw/6722ecc4e160196b9d1aae01d91ca4d51e522e46/splash-page.md))
-- nulled previously created splash-page.md by changing its name as splash-page.md2
+- nulled original splash-page.md by changing its name as splash-page.md2
 - created new one with its name as splash-page.md
 
 - changed minimal_mistakes_skin from air to contrast on config.yml
