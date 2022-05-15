@@ -26,13 +26,13 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--default"
+    btn_class: "btn--inverse"
   - image_path: /assets/splash/pic3_r.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 ---
 <!--- Below is needed to add intro --->
 {% include feature_row id="intro" type="center" %}
