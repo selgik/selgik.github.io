@@ -6,7 +6,7 @@ header:
   overlay_color: "#333"
   overlay_filter: "0.8"
 
-excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, Tableau, SQL and R."
+excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, SQL, Tableau and R."
 
   
 feature_row:
