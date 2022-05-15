@@ -6,10 +6,6 @@ header:
   overlay_color: "#333"
   overlay_filter: "0.8"
 
-  actions:
-    - label: "Read More"
-      url: "https://selgik.github.io/"
-
 excerpt: "Curious about numbers, data and stories behind them. Love solving problems with VBA, Tableau, SQL and R."
 
   
@@ -39,6 +35,10 @@ feature_row:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/splash/da.jpg
+
+  actions:
+    - label: "Read More"
+      url: "https://selgik.github.io/"
 --->
 
 <!--- Below is needed to add intro --->
