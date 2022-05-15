@@ -7,6 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/splash/da.jpg
 
+actions:
+    - label: "Read Posts"
+      url: "https://selgik.github.io/"
+      
 intro: 
   - excerpt: 'Check out my latest data analytic projects here!'
   
