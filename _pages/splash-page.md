@@ -12,7 +12,7 @@ header:
       url: "https://selgik.github.io/"
       
 intro: 
-  - excerpt: 'Welcome to my blog! My name is Sylvia and I am curious about numbers, data and stories behind them. Check out my latest data analytic portfolio below!'
+  - excerpt: 'Welcome to my blog! My name is Sylvia and I am curious about numbers, data and stories behind them. Check out my latest data analytic projects below!'
   
 feature_row:
   - image_path: /assets/splash/pic1_e.png
