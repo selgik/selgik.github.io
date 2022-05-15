@@ -30,7 +30,7 @@ I am using this page to track changes, leave notes and reference pages. To revie
 2. create html file in /_includes/"filename".html see iframe code (ref: /asset/images/video1.html)
 3.  add body in /_posts/"post".md 
 
-       {% include video1.html id="/assets/images/video1.mp4" %}  
+        {% include video1.html id="/assets/images/video1.mp4" %}  
 #### How to redirect post page -> external url
 1. [Review JekyllRedirectFrom](https://github.com/jekyll/jekyll-redirect-from)
 2. add plug-in
