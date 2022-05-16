@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/splash/pic2_t.png
     title: "Tableau Dashboards"
     excerpt: "Dynamic dashboards will help user to gain insights more quickly"
-    url: "#test-link"
+    url: "https://selgik.github.io/Tableau-dashboards/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic3_r.png
