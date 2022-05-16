@@ -43,10 +43,10 @@ I work at operation. As part of my matrix, I need to hit targetter hour (ex. 5.5
 
 | Overall workflow: |
 | :---   | :- |
-| User enters data (project hour) via the form in sheet_1 ->  |
-| Data is transffered to sheet_2. Everyday new data will be piled up ->  |
-| Data is re-transffered to sheet_3 undergoing cleaning, calculation, pivoting process ->  |
-| Cleaned data is represented as visual graphs and bulletin in the sheet_1.   |
+| User enters data (project hour) via the form in sheet_1 |
+| -> Data is transffered to sheet_2. Everyday new data will be piled up |
+| -> Data is re-transffered to sheet_3 undergoing cleaning, calculation and pivoting process |
+| -> Cleaned data is represented as visual graphs and bulletin in the sheet_1.   |
 
 ### (1) Step 1 - layout design
 I will have one-page dashboard:  
