@@ -35,13 +35,30 @@ In this page, I will focus on Type2 dashboard.
 * Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
 * Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services.
 
-### Project Workflow
-* What is this data telling me? Ask questions (assumption) and find answers.  
+## Table of Contents
+1. Motivation  
+2. Project Workflow
+3. Part 1: Clean Data with SQL
+4. Part 2: Visualize Findings with Tableau
+5. Final Deliverable  
+
+## 1. Movitation
+### Problem
+- Raw data is too big and it is impossible to read the insight from reading it. Data is not cleaned up either.
+- Data is too big for Excel to handle. I need other program to clean, transform and visualize data.
+ 
+### Motivation
+- I want to quickly clean up and calculate data.
+- I want to find out trend, insights and interesting figures and share with users.
+- I also want to give end-user a freedom to navigate and to find their own insight.
+
+## 2. Project Workflow
+* What is this data telling me? Ask questions (or assumption) and find answers.  
 * Part 1: Clean data with SQL 
 * Part 2: Visualize Findings with Tableau
 
 
-## Part 1: Clean Data With SQL.   
+## 3. Part 1: Clean Data With SQL.   
 ### Understand the Dataset 
 Ask questions:
 - How many requests are being reported to each agencies? 
@@ -179,7 +196,7 @@ WITH temp AS (
 -> Finding: Results between Tableau and BigQuery are similar except for HPD. (Why huge difference for HPD? Need further investigation)
 
 
-## Part 2: Visualize Findings with Tableau
+## 4. Part 2: Visualize Findings with Tableau
 ### Designing dashboards
 - Question: Why did I chose to build multiple pages dashboards for this project?
 - Answer: Unlike the COVID-19 project where I had to deal with only 1 unified theme (COVID-19), this project had mulitple themes (requests number, duration time, season or agencies etc). Adding all analysis on each component in one page could be overwhelming to users as it would contain too much information. 
@@ -211,7 +228,8 @@ When I used parameter control, one of chart showed blank result.
   - Filtering with parameters by Ross Perez:
     https://www.tableau.com/about/blog/2012/7/filtering-parameters-18326
 
-### Dashboard demos
+## 5. Final Deliverable
+### Dashboard Demos
 - Click this [link](https://public.tableau.com/app/profile/sylvia.kim) to test out.
 
 *END*
