@@ -22,7 +22,7 @@ In this page, I will focus on Type2 dashboard.
 
 - Type1: One page dashboard for easier navigation
   {% include video2.html id="/assets/images/video2.mp4" %}  
-  
+     
 - Type2: Multiple pages dashboard segregated per topic
   {% include video3.html id="/assets/images/video3.mp4" %}  
 
