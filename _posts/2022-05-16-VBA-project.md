@@ -17,7 +17,7 @@ title: VBA Project
 ---
 ## Overview 
 Automate data entry and visualization process with Excel VBA.  
-(Videos will optimally play in full screen mode or in Google Chrome.)
+(Use Google Chrome or full screen mode for video)
 
  {% include video1.html id="/assets/images/video1.mp4" %}  
  
