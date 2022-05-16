@@ -25,17 +25,12 @@ feature_row:
   - image_path: /assets/splash/pic3_r.png
     title: "R Markdown Review"
     excerpt: "Have you tried famicom? Different disk loads in different games. Same with R"
-    url: "#test-link"
+    url: "https://rpubs.com/Sylvia_K/RCNotesv2"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
 <!--- 
- header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/splash/da1.jpg
-
   actions:
     - label: "Read More"
       url: "https://selgik.github.io/"
