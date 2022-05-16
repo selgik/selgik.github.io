@@ -55,7 +55,7 @@ In this page, I will focus on Type2 dashboard.
 ## 2. Project Workflow
 * What is this data telling me? Ask questions (or assumption) and find answers.  
 * Part 1: Clean data with SQL 
-* Part 2: Visualize Findings with Tableau
+* Part 2: Visualize findings with Tableau
 
 
 ## 3. Part 1: Clean Data With SQL.   
