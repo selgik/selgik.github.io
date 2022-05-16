@@ -25,7 +25,8 @@ Automate data entry and visualization process with Excel VBA.
 1. Motivation  
 2. Process Design  
 3. Building Schema   
-4. Final Deliverable  
+4. Code Chunks
+5. Final Deliverable  
 
 ## 1. Motivation 
 ### (1) Task
@@ -117,64 +118,60 @@ b. Ask questions
 
 ## 4. Code Chucks
 
+    Sub Update_Prd()
 
-~~~vba
-Sub Update_Prd()
+    Dim a As Integer
+    a = Worksheets("sheet_2").Cells(1, 11).Value
 
-Dim a As Integer
-
-a = Worksheets("sheet_2").Cells(1, 11).Value
-
-'Step1: If cell C6 is NOT empty, transfer data from Main_Dashboard to sheet_2
-If IsEmpty(Worksheets("Main_Dashbaord").Range("C6")) = False Then
-
-Worksheets("sheet_2").Cells(a, 2) = Worksheets("Main_Dashbaord").Cells(5, 3)
-Worksheets("sheet_2").Cells(a, 3) = Worksheets("Main_Dashbaord").Cells(6, 3)
-Worksheets("sheet_2").Cells(a, 4) = Worksheets("Main_Dashbaord").Cells(7, 3)
-Worksheets("sheet_2").Cells(a, 5) = Worksheets("Main_Dashbaord").Cells(8, 3)
-Worksheets("sheet_2").Cells(a, 6) = Worksheets("Main_Dashbaord").Cells(9, 3)
-Worksheets("sheet_2").Cells(a, 7) = Worksheets("Main_Dashbaord").Cells(10, 3)
-Worksheets("sheet_2").Cells(a, 8) = Worksheets("Main_Dashbaord").Cells(11, 3)
-Worksheets("sheet_2").Cells(a, 9) = Worksheets("Main_Dashbaord").Cells(12, 3)
-Worksheets("sheet_2").Cells(a, 10) = Worksheets("Main_Dashbaord").Cells(13, 3)
-Worksheets("sheet_2").Cells(a, 11) = Worksheets("Main_Dashbaord").Cells(14, 3)
-Worksheets("sheet_2").Cells(a, 12) = Worksheets("Main_Dashbaord").Cells(15, 3)
-
-'And then, clear the contents for below range.     
-Worksheets("Main_Dashbaord").Range("C5:C15").ClearContents
-
-'Otherwise (if C6 is empty) alert user to fill in the date.
-Else
-    MsgBox "Date is missing"
-End If
-
-
-'Step2: Mark the day as default "full day" instead of "half day" so that user clicks less.
-Range("C5").Select
-ActiveCell.FormulaR1C1 = "Full"
-Range("C6").Select
-
-            
-'Step3: Refresh pivot so that related graphs on dashboard can be auto-updated upon clicking button.
-ActiveWorkbook.RefreshAll
+    'Step1: If cell C6 is NOT empty, transfer data from Main_Dashboard to sheet_2
+    'C6 is where user inputs date
     
+    If IsEmpty(Worksheets("Main_Dashbaord").Range("C6")) = False Then
+
+    Worksheets("sheet_2").Cells(a, 2) = Worksheets("Main_Dashbaord").Cells(5, 3)
+    Worksheets("sheet_2").Cells(a, 3) = Worksheets("Main_Dashbaord").Cells(6, 3)
+    Worksheets("sheet_2").Cells(a, 4) = Worksheets("Main_Dashbaord").Cells(7, 3)
+    Worksheets("sheet_2").Cells(a, 5) = Worksheets("Main_Dashbaord").Cells(8, 3)
+    Worksheets("sheet_2").Cells(a, 6) = Worksheets("Main_Dashbaord").Cells(9, 3)
+    Worksheets("sheet_2").Cells(a, 7) = Worksheets("Main_Dashbaord").Cells(10, 3)
+    Worksheets("sheet_2").Cells(a, 8) = Worksheets("Main_Dashbaord").Cells(11, 3)
+    Worksheets("sheet_2").Cells(a, 9) = Worksheets("Main_Dashbaord").Cells(12, 3)
+    Worksheets("sheet_2").Cells(a, 10) = Worksheets("Main_Dashbaord").Cells(13, 3)
+    Worksheets("sheet_2").Cells(a, 11) = Worksheets("Main_Dashbaord").Cells(14, 3)
+    Worksheets("sheet_2").Cells(a, 12) = Worksheets("Main_Dashbaord").Cells(15, 3)
+
+    'Next, clear the contents for below range.     
+    Worksheets("Main_Dashbaord").Range("C5:C15").ClearContents
+
+    'Otherwise (if C6 is empty) alert user to fill in the date.
+    Else
+       MsgBox "Date is missing"
+    End If
+
+
+    'Step2: Mark the day as default "full day" instead of "half day" so that user does not have to select everyday.
+    Range("C5").Select
+    ActiveCell.FormulaR1C1 = "Full"
+    Range("C6").Select
+
+
+    'Step3: Refresh pivot so that related graphs on dashboard can be auto-updated upon clicking button.
+    ActiveWorkbook.RefreshAll
     
-'Step 4: Sort horizontal bar chart analyzing activities in remaining hour, in ASC order. (recorded via macro)
-    ActiveWorkbook.Worksheets("sheet_3").AutoFilter.Sort.SortFields.Clear
-    ActiveWorkbook.Worksheets("sheet_3").AutoFilter.Sort.SortFields.Add2 Key:= _
-        Range("AG2:AG9"), SortOn:=xlSortOnValues, Order:=xlAscending, DataOption _
-        :=xlSortNormal
-      With ActiveWorkbook.Worksheets("sheet_3").AutoFilter.Sort
-        .Header = xlYes
-        .MatchCase = False
-        .Orientation = xlTopToBottom
-        .SortMethod = xlPinYin
-        .Apply
-    End With
+    'Step 4: Sort horizontal bar chart analyzing activities in remaining hour, in ASC order. (recorded via macro)
+        ActiveWorkbook.Worksheets("sheet_3").AutoFilter.Sort.SortFields.Clear
+        ActiveWorkbook.Worksheets("sheet_3").AutoFilter.Sort.SortFields.Add2 Key:= _
+            Range("AG2:AG9"), SortOn:=xlSortOnValues, Order:=xlAscending, DataOption _
+           :=xlSortNormal
+          With ActiveWorkbook.Worksheets("sheet_3").AutoFilter.Sort
+            .Header = xlYes
+            .MatchCase = False
+            .Orientation = xlTopToBottom
+           .SortMethod = xlPinYin
+           .Apply
+          End With
 
-
-End Sub
-~~~
+    End Sub
 
 
 ## 5. Final Deliverable
