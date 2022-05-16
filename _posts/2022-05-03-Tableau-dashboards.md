@@ -27,18 +27,18 @@ Dynamic dashboards will help user to gain insights more quickly.
   
 In this page, I will focus on Type2 dashboard.  
 
-### Project Workflow
-* What is this data telling me? Ask questions (assumption) and find answers.  
-* Part 1: Clean data with SQL 
-* Part 2: Visualize Findings with Tableau
+### Tool Used
+* BigQuery
+* Tableau Desktop
 
 ### Information About Data Source
 * Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
 * Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services.
 
-### Tool Used
-* BigQuery
-* Tableau Desktop
+### Project Workflow
+* What is this data telling me? Ask questions (assumption) and find answers.  
+* Part 1: Clean data with SQL 
+* Part 2: Visualize Findings with Tableau
 
 
 ## Part 1: Clean Data With SQL.   
