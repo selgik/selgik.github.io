@@ -2,7 +2,7 @@
 output:
   always_allow_html: true
   author: Sylvia K
-  date: 2022-05-16
+  date: 2022-05-01
   excerpt: project note
   knit: "(function (inputFile, encoding) { rmarkdown::render(inputFile,
     encoding=encoding, output_dir= “\\~/selgik.github.io/\\_posts”)})"
