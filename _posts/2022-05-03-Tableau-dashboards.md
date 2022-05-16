@@ -182,7 +182,7 @@ WITH temp AS (
 ## Part 2: Visualize Findings with Tableau
 ### Designing dashboards
 - Question: Why did I chose to build multiple pages dashboards for this project?
-- Answer: Unlike the COVID-19 project where I had to deal with only 1 unified theme (COVID-19), this project had mulitple themes (requests number, duration time, season or agencies etc). Adding all analysis on each component in one page could have been overwhelming to users as it would contain too much information. 
+- Answer: Unlike the COVID-19 project where I had to deal with only 1 unified theme (COVID-19), this project had mulitple themes (requests number, duration time, season or agencies etc). Adding all analysis on each component in one page could be overwhelming to users as it would contain too much information. 
 
 ### Track Tableau issues
 
