@@ -17,7 +17,6 @@ title: Tableau Dashboards
 
 ## Overview
 Dynamic dashboards will help user to gain insights more quickly.  
-In this page, I will focus on Type2 dashboard.  
 (Use Google Chrome or full screen mode for video).  
 
 - Type1: One page dashboard for easier navigation
@@ -25,8 +24,9 @@ In this page, I will focus on Type2 dashboard.
      
 - Type2: Multiple pages dashboard segregated per topic
   {% include video3.html id="/assets/images/video3.mp4" %}  
+  
+In this page, I will focus on Type2 dashboard.  
 
- 
 ### Project Workflow
 * What is this data telling me? Ask questions (assumption) and find answers.  
 * Part 1: Clean data with SQL 
