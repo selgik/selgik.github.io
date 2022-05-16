@@ -1,5 +1,5 @@
 ---
-title: "Sylvia's Learning Log"
+title: "Sylvia's Portfolio"
 layout: splash
 permalink: /splash-page/
 header:
