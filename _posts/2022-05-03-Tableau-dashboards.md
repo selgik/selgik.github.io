@@ -212,6 +212,6 @@ When I used parameter control, one of chart showed blank result.
     https://www.tableau.com/about/blog/2012/7/filtering-parameters-18326
 
 ### Dashboard demos
-- Click [this link](https://public.tableau.com/app/profile/sylvia.kim) to test out.
+- Click this [link](https://public.tableau.com/app/profile/sylvia.kim) to test out.
 
 *END*
