@@ -41,7 +41,7 @@ In this page, I will focus on Type2 dashboard.
 * Tableau Desktop
 
 
-## Part 1: Clean data with SQL.   
+## Part 1: Clean Data With SQL.   
 ### Understand the Dataset 
 Ask questions:
 - How many requests are being reported to each agencies? 
