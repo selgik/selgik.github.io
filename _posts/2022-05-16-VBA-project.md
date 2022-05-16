@@ -65,33 +65,32 @@ I will have 3 spreadsheet:
 - i. sheet_3: calculation sheet where pivot tables and other calculations will be performed.  
          
 ### (2) Step 2 - enter data (ref: 2(1)a.)
-a. I want:  
+I want:  
 - User to feed (select or type) date, day type (full day/half day) and achieved project hour.  
 - User to optionally feed activity hour to analyze how remaining hours are spent.  
 - Fed data to be organized in table format in a spearate sheet.  
 
-b. How?  
+How?  
 - Solution: use VBA. Create button which will trigger the data transfer process.  
 - Flow: user feeds data to the form in sheet_1 -> clicks button -> data is transffered and organized in the table in sheet_2.  
          
 ### (3) Step 3 - process data
-a. Create pivot tables   
+Create pivot tables:   
 - Charts will be created based on the pivot tables. For each type of chart, independent pivot table will be created.  
 - All calculations, pivot tables and data validation lists etc. will be organized in this sheet_3.  
 
-b. Hide the sheet   
+Hide the sheet:   
 - To avoid user's confusion and breaking the formula, all sheets will be protected except where user is feeding data in the form in sheet_1.  
 - Additinoally, sheet_3 will be hidden as users do not need to see raw/transformed data (table, pivot, reference list etc.)  
          
 ### (4) Step 4 - data visualization    
-Decide optimal chart type  
+Decide optimal chart type:  
 - 2(1)c: donut chart.  
 - 2(1)d: bar or line chart.  
 - 2(1)e: donut chart combining with horizontal bar chart showing top ranks in remaining hour section.   
     
 ### (5) Step 5 - test
-a. Test out various chart types and color to see the overall harmony.  
-b. Ask questions  
+Test out various chart types and color to see the overall harmony. Ask questions:  
 - Did I put too much information? Sould I reduce charts? Did I select too many chart types?   
 - Will the form be placed on the left or right? Which one is more user friendly? Are there too many colors?
         
