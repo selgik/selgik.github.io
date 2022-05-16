@@ -1,13 +1,10 @@
 # Change Log
 I am using this page to track changes, leave notes and reference pages. To review original README.md, please go to this [link](https://github.com/mmistakes/minimal-mistakes)
 
-## To-Do
-- replace 'dashboard demo' to 'about me' on navigation
-- redirect data-viz page to splash page
-
 ## 2022-05-16
 - created 2022-05-01-VBA-project.md and linked URL on splash page. Removed (1) 2022-02-04-project-note.md (2) 2022-02-05-vba-note.md
 - created 2022-05-03-Tableau-dashboards.md and linked URL on splash page. Removed (1) 2022-02-03-tableau-code-note.md (2) 2022-02-02-sql-note.md
+- created 2022-02-01-data-viz.md(old). Original 2022-02-01-data-viz.md --> rediretred to splash page.
 
 ## 2022-05-15
 - created splash page (ref [Jan's blog](https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/), [Raw Gist](https://gist.githubusercontent.com/Rainymood/35ae7d900f4d8a3d3199ee20fefe2567/raw/6722ecc4e160196b9d1aae01d91ca4d51e522e46/splash-page.md))
