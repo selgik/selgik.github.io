@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic3_r.png
-    title: "R Markdown Review"
+    title: "R Markdown"
     excerpt: "Have you tried famicom? Different disk loads in different games. Same with R"
     url: "https://rpubs.com/Sylvia_K/RCNotesv2"
     btn_label: "Read More"
