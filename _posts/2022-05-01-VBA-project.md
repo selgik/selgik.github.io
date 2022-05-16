@@ -30,7 +30,7 @@ Automate data entry and visualization process with Excel VBA.
 
 ## 1. Motivation 
 ### (1) Task
-I work at operation. As part of my matrix, I need to hit targetter hour (ex. 5.5 hours) on assigned project. While I can plan my week and allocate time flexibly, it is recommended to meet daily goal of at least 5h.  
+Let's say, I work at operation. As part of my matrix, I need to hit targetter hour (ex. 5.5 hours) on assigned project. While I can plan my week and allocate time flexibly, it is recommended to meet daily goal of at least 5h.  
 
 ### (2) Problem
 - I need to manually calculate the time spent on the project to meet daily, weekly and monthly goal. Sometimes I make mistakes in calculation. 
