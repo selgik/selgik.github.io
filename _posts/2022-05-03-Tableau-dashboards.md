@@ -44,7 +44,7 @@ In this page, I will focus on Type2 dashboard.
 
 ## 1. Movitation
 ### Problem
-- Raw data is too big and it is impossible to read the insight from reading it. Data is not cleaned up either.
+- Raw data is too big and it is impossible to read the insights. Data is not cleaned up either.
 - Data is too big for Excel to handle. I need other program to clean, transform and visualize data.
  
 ### Motivation
