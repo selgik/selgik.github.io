@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/splash/pic1_e.png
     title: "Excel VBA Project"
     excerpt: "You can automate data entry and visualization process with Excel VBA"
-    url: "#test-link"
+    url: "https://selgik.github.io/VBA-project/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic2_t.png
