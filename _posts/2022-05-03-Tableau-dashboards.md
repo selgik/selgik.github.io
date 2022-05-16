@@ -50,7 +50,7 @@ In this page, I will focus on Type2 dashboard.
 ### Motivation
 - I want to quickly clean up and calculate data.
 - I want to find out trend, insights and interesting figures and share with users.
-- I also want to give end-user a freedom to navigate and to find their own insight.
+- I also want to give end-user a freedom to navigate and to find out their own insight.
 
 ## 2. Project Workflow
 * What is this data telling me? Ask questions (or assumption) and find answers.  
