@@ -60,7 +60,7 @@ In this page, I will focus on Type2 dashboard.
 
 ## 3. Part 1: Clean Data With SQL.   
 ### Understand the Dataset 
-Ask questions:
+By asking questions:
 - How many requests are being reported to each agencies? 
 - What kind of complaints are received the most? 
 - When is the peak season for each agencies?
