@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/pic2_t.png
-    title: "Tableau Dashboards"
+    title: "SQL/Tableau Dashboards"
     excerpt: "Dynamic dashboards will help user to gain insights more quickly"
     url: "https://selgik.github.io/Tableau-dashboards/"
     btn_label: "Read More"
