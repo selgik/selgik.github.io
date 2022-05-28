@@ -37,8 +37,8 @@ Let's say, I work at operation. As part of my matrix, I need to hit targetter ho
 - I work hard but I cannot meet the targetted goal. I do not know how I can better manage my time.
 
 ### (3) Motivtaion
-- I want to be free from calculating remaining hours. I want the program to tell me how many hours are left to meet the goal.
-- I want analyze my time and find the area for improvement. I want to know where am I spending rest of my time and how can I adjust to meet targeted project hour.  
+- I want to be free from calculating remaining hours. I want the program to tell me how many hours are left to meet the weekly goal.
+- I want to analyze my time and find the area for improvement. I want to know where am I spending rest of my time and how can I adjust to meet targeted project hour.  
 - I do not want to use multiple platforms. A one-stop platform where I can input data and gain insight, would be easier.  
          
 ## 2. Process Design 
