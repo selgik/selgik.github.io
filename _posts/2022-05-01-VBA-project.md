@@ -34,7 +34,7 @@ Let's say, I work at operation. As part of my matrix, I need to hit targetter ho
 
 ### (2) Problem
 - I need to manually calculate the time spent on the project to meet daily, weekly and monthly goal. Sometimes I make mistakes in calculation. 
-- I work hard but I cannot meet the targetted goal. I do not know how can I better manage the time as I have no clue how my day is spent.
+- I work hard but I cannot meet the targetted goal. I do not know how I can better manage my time.
 
 ### (3) Motivtaion
 - I want to be free from calculating remaining hours. I want the program to tell me how many hours are left to meet the goal.
