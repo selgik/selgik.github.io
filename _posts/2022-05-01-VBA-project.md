@@ -118,9 +118,19 @@ Test out various chart types and color to see the overall harmony. Ask questions
 ## 4. Code Chucks
 
     Sub Update_Prd()
-
+    
+    'Step0: Declare variable
+    
     Dim a As Integer
     a = Worksheets("sheet_2").Cells(1, 11).Value
+    
+    'Question: What is in Cells(1,11)? 
+    'Answer: There is formula =counta(D1:D500)+3 in Cells(1, 11).
+    '        Once data is transfferd via Step1, Cells(1,11) value will increase due to counta function. 
+    '        As a result, newly transffered data will be sotred in the next row number.
+    '        Without it, newly transffered data will be stored in the smae row where previously transffered data sit. 
+    '        It will make impossible to store historical data as new data will erase old data.
+    
 
     'Step1: If cell C6 is NOT empty, transfer data from Main_Dashboard to sheet_2
     'C6 is where user inputs date
