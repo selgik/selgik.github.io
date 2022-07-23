@@ -69,7 +69,7 @@ Interactive dashboard: A data visualization user can search and view summarized 
 |Datasource update    | Every 2 days         | In order to accurately capture daily updates, data-source update is scheduled for every 2 days.|
 
  *Update has been stopped as of Nov 7, 2021.* 
-  
+
 <br/>
 <a name="type2">
 # Type2: Report
