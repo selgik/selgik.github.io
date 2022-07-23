@@ -44,7 +44,7 @@ Client/Sponsor: N/A
 
 ### 2. Scope / Major Project Activities:
 | **Activity**        | **Description**                                                                      |  
-| :---                | :-                                                                                   |  
+|:--------------------|:-------------------------------------------------------------------------------------|  
 |Data collection      | Collect COVID-19 data from Our World in Data (https://ourworldindata.org/coronavirus)|
 |Decide story point   | Decide on key figures to include in the dashboard.                                   |
 |Identify relationship| Study whether there is relationship between key figures.                             |
@@ -55,8 +55,9 @@ Client/Sponsor: N/A
 Other than country-level data (dashboard will not provide either continental or city-level summary).
 
 ### 4. Deliverables:
-Deliverable                         Description/ Details
-Interactive dashboard               A data visualization where user can search and view summarized COVID-19 data.
+|Deliverable           | Description/ Details                                                   |
+|:---------------------|:-----------------------------------------------------------------------|
+|Interactive dashboard | A data visualization user can search and view summarized COVID-19 data.|
 
 ### 5. Schedule Overview / Major Milestones:
 Milestone           Date            Description        
