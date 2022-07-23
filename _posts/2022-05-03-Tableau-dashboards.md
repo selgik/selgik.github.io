@@ -55,7 +55,7 @@ The final deliverable will streamline search process by producing comprehensive 
 |Design report        | Compare chart types and arrange information.                                         |
 |Deliver dashboard    | Deliver final dashboard with optimal type of filters.                                |
 
-### 3. This project does not include:
+### 3. This Project Does Not Include:
 Other than country-level data (dashboard will not provide either continental or city-level summary).
 
 ### 4. Deliverables:
