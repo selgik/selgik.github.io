@@ -30,7 +30,7 @@ In this page, I have prepared two types of documents. Scope of Work for <a href=
 Click relevant documents or [here](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
 
 <a name="type1">
-## Scope of Work
+## Type1: Scope of Work
 
 Data Visualization Project   
 Date: Nov 12, 2021                                                                                        
