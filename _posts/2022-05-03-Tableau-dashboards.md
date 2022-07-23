@@ -43,6 +43,13 @@ Client/Sponsor: N/A
 - The final deliverable will streamline search process by producing comprehensive report on COVID-19 status.
 
 ### 2. Scope / Major Project Activities:
+  
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+  
 | **Activity**        | **Description**                                                                      |  
 |:--------------------|:-------------------------------------------------------------------------------------|  
 |Data collection      | Collect COVID-19 data from Our World in Data (https://ourworldindata.org/coronavirus)|
