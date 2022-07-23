@@ -20,7 +20,7 @@ Tableau dashboards are great. They empower users to see what they want. Instead 
 
 - Type1: One page dashboard for easier navigation  
 (Use Google Chrome or full screen mode)
-  {% include video2.html id="/assets/images/video2.mp4" %}
+  {% include video2.html id="/assets/images/video2.mp4" %}  
    
 - Type2: Multiple pages dashboard segregated per topic  
 (Use Google Chrome or full screen mode)
