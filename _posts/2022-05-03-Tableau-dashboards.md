@@ -53,7 +53,7 @@ Client/Sponsor: N/A
 |Deliver dashboard    | Deliver final dashboard with optimal type of filters.                                |
 
 ### 3. This project does not include:
-Other than country-level data (dashboard will not provide either continental or city-level summary).
+- Other than country-level data (dashboard will not provide either continental or city-level summary).
 
 ### 4. Deliverables:
 - Interactive dashboard: A data visualization user can search and view summarized COVID-19 data.
@@ -65,7 +65,7 @@ Other than country-level data (dashboard will not provide either continental or 
 | Datasource update|Every 2 days|In order to accurately capture daily updates, datasource update is scheduled for every 2 days. * This has been stopped as of Nov 7, 2021. |
 
 <a name="type2">
-## Overview  
+## Type: Report
 ### Tool Used
 * BigQuery
 * Tableau Desktop
