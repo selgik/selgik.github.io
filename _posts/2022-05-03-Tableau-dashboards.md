@@ -69,8 +69,8 @@ Interactive dashboard: A data visualization user can search and view summarized 
 |Datasource update    | Every 2 days         | In order to accurately capture daily updates, data-source update is scheduled for every 2 days.|
 
  *Update has been stopped as of Nov 7, 2021.* 
-<br/>
   
+<br/>
 <a name="type2">
 # Type2: Report
 
@@ -88,19 +88,18 @@ Interactive dashboard: A data visualization user can search and view summarized 
   
 ## 2. Movitation
 ### Problem
-- I want to get insights about NY 311 dataset. Raw data is however too big and it is impossible to read the insights. Data is not cleaned up either.
-- Data is too big for Excel to handle. I need other program to clean, transform and visualize data.
+- I want to understand the hidden stories behind the NY 311 dataset. Raw data is however too big and it is impossible to read any insights from it. Data is not cleaned up either.
+- Data is too big for Excel to handle. I need other program to clean, transform and visualize data. 
  
 ### Motivation
-- I want to quickly clean up and calculate data.
+- I want to quickly clean up and manipuate data.
 - I want to find out trend, insights and interesting figures and share with users.
-- I also want to give end-user a freedom to navigate and to find out their own insight.
+- I also want to give end-user an autonomy to navigate and to find out their own insights.
 
 ## 3. Project Workflow
 * What is this data telling me? Ask questions (or assumption) and find answers.  
 * Part 1: Clean data with SQL 
 * Part 2: Visualize findings with Tableau
-
 
 ## 4. Part 1: Clean Data With SQL.   
 ### Understand the Dataset 
@@ -109,7 +108,6 @@ By asking questions:
 - What kind of complaints are received the most? 
 - When is the peak season for each agencies?
 - What can I suggest for each agencies to deal with seaonsal fluctuation?
-
 
 #### Question 1: Get summary of data
 ~~~sql
@@ -242,12 +240,12 @@ WITH temp AS (
 
 ## 5. Part 2: Visualize Findings with Tableau
 ### Choosing dashboard type
-- Question: Why did I chose to build multiple pages dashboards for this project?
-- Answer: Unlike the COVID-19 project where I had to deal with only 1 unified theme (COVID-19), this project had mulitple themes (requests number, duration time, season or agencies etc). Adding all analysis in one page could be overwhelming to users as it would contain too much information. 
+- Question: Why did I decide to build multi-pages dashboards for this project?
+- Answer: Unlike the COVID-19 project where I had to deal with 1 unified theme (COVID-19), this project had mulitple themes (requests types, duration time, season or agencies etc). Adding all analysis in one page could be overwhelming to users as it would contain too much information. 
 
 ### Designing dashboards
 - Divide dashboards into three section: service requests summary per (1) season (2) agency (3) type.
-- Enable data source filters for year/month
+- Enable data source level filters for year/month.
 - Add key insights for each section. 
 
 ### Track Tableau issues
@@ -274,12 +272,11 @@ When I used parameter control, one of chart showed blank result.
   - Solution: I edited Group from 3. Solution - Step 1 by removing inner-group of complaint type name. 
   
 #### 5. Credit
-  - Filtering with parameters by Ross Perez:
-    https://www.tableau.com/about/blog/2012/7/filtering-parameters-18326
+  - Filtering with parameters by Ross Perez [post](https://www.tableau.com/about/blog/2012/7/filtering-parameters-18326)
 
 ## 6. Final Deliverable
 ### Dashboard Demos
-- Click this [link](https://public.tableau.com/app/profile/sylvia.kim) to test out.
+- Click this [link](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
 
   
 *END*
