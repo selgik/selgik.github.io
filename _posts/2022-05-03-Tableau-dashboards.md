@@ -73,9 +73,6 @@ Interactive dashboard: A data visualization user can search and view summarized 
   
 <a name="type2">
 ## Type2: Report
-### Tool Used
-* BigQuery
-* Tableau Desktop
 
 ## Table of Contents
 1. Motivation  
