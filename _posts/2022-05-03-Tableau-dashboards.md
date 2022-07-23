@@ -51,7 +51,7 @@ Client/Sponsor: N/A
 | col 3 is | right-aligned |    $1 |
   
 | **Activity**        | **Description**                                                                      |  
-|:--------------------|:-------------------------------------------------------------------------------------|  
+|---------------------|--------------------------------------------------------------------------------------|  
 |Data collection      | Collect COVID-19 data from Our World in Data (https://ourworldindata.org/coronavirus)|
 |Decide story point   | Decide on key figures to include in the dashboard.                                   |
 |Identify relationship| Study whether there is relationship between key figures.                             |
