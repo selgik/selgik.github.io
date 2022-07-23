@@ -26,17 +26,16 @@ Tableau dashboards are great. They empower users to see what they want. Instead 
 (Use Google Chrome or full screen mode)
   {% include video3.html id="/assets/images/video3.mp4" %}  
   
-In this page, I have prepared two types of documents. Scope of Work for <a href="#type1"Type1</a> and Report for <a href="#type2">Type2</a>. 
+In this page, I have prepared two types of documents. Scope of Work for <a href="#type1">Type1</a> and Report for <a href="#type2">Type2</a>. 
 Click relevant documents or [here](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
 
 <a name="type1">
-
 ## Scope of Work
 
-- Data Visualization Project   
-- Date: Nov 12, 2021                                                                                        
-- Data Analyst: Sylvia K.  
-- Client/Sponsor: N/A  
+Data Visualization Project   
+Date: Nov 12, 2021                                                                                        
+Data Analyst: Sylvia K.  
+Client/Sponsor: N/A  
 
 ### 1. Purpose: 
 The goal of this project is to visualize key COVID-19 data with easeir search and comparison overview.  
