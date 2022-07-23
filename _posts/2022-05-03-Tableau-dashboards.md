@@ -31,9 +31,7 @@ Click relevant documents or [here](https://public.tableau.com/app/profile/sylvia
 
 <a name="type1">  
 # Type1: Scope of Work  
-##  
-## Type1: Scope of Work  
-###  
+---
 Data Visualization Project   
 Date: Nov 12, 2021                                                                                        
 Data Analyst: Sylvia K.  
