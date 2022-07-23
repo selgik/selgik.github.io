@@ -65,7 +65,7 @@ Interactive dashboard: A data visualization user can search and view summarized 
 |------------------|--------------|-----------------------------------------------------------------------------------------------|
 |Upload dashboard  | Oct 15, 2021 | Upload dashbaord to Tableau Public to enable user to interact with data.                      |        
 |Datasource update | Every 2 days | In order to accurately capture daily updates, datasource update is scheduled for every 2 days.|
- * This has been stopped as of Nov 7, 2021. 
+ * Update has been stopped as of Nov 7, 2021.* 
   
 <a name="type2">
 ## Type2: Report
