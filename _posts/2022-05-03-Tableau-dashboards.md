@@ -26,10 +26,49 @@ Tableau dashboards are great. They empower users to see what they want. Instead 
 (Use Google Chrome or full screen mode)
   {% include video3.html id="/assets/images/video3.mp4" %}  
   
-In this page, I have prepared two types of documents. Scope of Work for Type1 and Report for <a href="#type2">Type2</a>. 
-Click relevant documents or [this link](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
+In this page, I have prepared two types of documents. Scope of Work for <a href="#type1"Type1</a> and Report for <a href="#type2">Type2</a>. 
+Click relevant documents or [here](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
+
+<a name="type1">
+
+## Scope of Work
+
+- Data Visualization Project   
+- Date: Nov 12, 2021                                                                                        
+- Data Analyst: Sylvia K.  
+- Client/Sponsor: N/A  
+
+### 1. Purpose: 
+The goal of this project is to visualize key COVID-19 data with easeir search and comparison overview.  
+The project will organize daily and historical COVID-19 data using country, time and region filters. After applying filters, the project will illustrate daily and total number of confirmed cases/deaths/vaccinations, trend over time including fatality rate change and case fluctuation over the last 14 days, as of the last update date of the dashboard.  
+The project will also provide an overview on global/continental COVID-19 ranking summary on the map.
+The final deliverable will streamline search process by producing comprehensive report on COVID-19 status.
+
+### 2. Scope / Major Project Activities:
+| **Activity** | **Description** |
+| :---   | :--- |
+|Data collection| Collect COVID-19 data from Our World in Data (https://ourworldindata.org/coronavirus)|                     
+|Decide story point| Decide on key figures to include in the dashboard.|
+|Identify relationship| Study whether there is relationship between key figures.|
+|Design report| Compare chart types and arrange information.|
+|Deliver dashboard| Deliver final dashboard with optimal type of filters.|
+
+### 3. This project does not include:
+Other than country-level data (dashboard will not provide either continental or city-level summary).
+
+### 4. Deliverables:
+Deliverable                         Description/ Details
+Interactive dashboard               A data visualization where user can search and view summarized COVID-19 data.
+
+### 5. Schedule Overview / Major Milestones:
+Milestone           Date            Description        
+Upload dashboard    Oct 15, 2021    Upload dashbaord to Tableau Public to enable user to interact with data.         
+Datasource update   Every 2 days    In order to accurately capture daily updates, 
+                                    datasource update is scheduled for every 2 days.
+                                    * This has been stopped as of Nov 7, 2021.
 
 <a name="type2">
+## Overview  
 ### Tool Used
 * BigQuery
 * Tableau Desktop
