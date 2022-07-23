@@ -68,7 +68,7 @@ Interactive dashboard: A data visualization user can search and view summarized 
  * This has been stopped as of Nov 7, 2021. 
   
 <a name="type2">
-## Type: Report
+## Type2: Report
 ### Tool Used
 * BigQuery
 * Tableau Desktop
