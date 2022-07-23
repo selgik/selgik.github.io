@@ -16,15 +16,15 @@ title: Tableau Dashboards
 ---
 
 ## Overview
-Tableau dashboards are great. They empower users to see what they want, and they are dynamic. Instead of creating graphs everytime you need, you can link data and use filters to gain insights instantly.
+Tableau dashboards are great. They empower users to see what they want, and they are dynamic. Instead of creating graphs everytime you need, link data and use filters to gain insights instantly.
 
-- Type1: One page dashboard for easier navigation
+- Type1: One page dashboard for easier navigation  
 (Use Google Chrome or full screen mode)
   {% include video2.html id="/assets/images/video2.mp4" %}
 
 <br/>
 
-- Type2: Multiple pages dashboard segregated per topic
+- Type2: Multiple pages dashboard segregated per topic  
 (Use Google Chrome or full screen mode)
   {% include video3.html id="/assets/images/video3.mp4" %}  
   
