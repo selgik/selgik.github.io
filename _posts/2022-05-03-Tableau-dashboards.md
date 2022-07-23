@@ -68,21 +68,26 @@ Interactive dashboard: A data visualization user can search and view summarized 
 |Datasource update    | Every 2 days         | In order to accurately capture daily updates, data-source update is scheduled for every 2 days.|
 
  *Update has been stopped as of Nov 7, 2021.* 
+<br/>
   
 <a name="type2">
 # Type2: Report
 
 ## Table of Contents
-1. Motivation  
-2. Project Workflow
-3. Part 1: Clean Data with SQL
-4. Part 2: Visualize Findings with Tableau
-5. Final Deliverable
-6. Data Source  
+1. About Data Source
+2. Motivation  
+3. Project Workflow
+4. Part 1: Clean Data with SQL
+5. Part 2: Visualize Findings with Tableau
+6. Final Deliverable
 
-## 1. Movitation
+## 1. About Data Source
+- Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
+- Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services. 
+  
+## 2. Movitation
 ### Problem
-- Raw data is too big and it is impossible to read the insights. Data is not cleaned up either.
+- I want to get insights about NY 311 dataset. Raw data is however too big and it is impossible to read the insights. Data is not cleaned up either.
 - Data is too big for Excel to handle. I need other program to clean, transform and visualize data.
  
 ### Motivation
@@ -275,8 +280,5 @@ When I used parameter control, one of chart showed blank result.
 ### Dashboard Demos
 - Click this [link](https://public.tableau.com/app/profile/sylvia.kim) to test out.
 
-## 6. Information About Data Source
-- Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
-- Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services.
   
 *END*
