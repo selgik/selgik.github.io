@@ -21,8 +21,9 @@ Dynamic dashboards will help user to gain insights more quickly.
 
 - Type1: One page dashboard for easier navigation
   {% include video2.html id="/assets/images/video2.mp4" %}  
-     
-     
+  
+<br/>
+
 - Type2: Multiple pages dashboard segregated per topic
   {% include video3.html id="/assets/images/video3.mp4" %}  
   
