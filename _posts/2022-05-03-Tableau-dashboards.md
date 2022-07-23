@@ -16,15 +16,16 @@ title: Tableau Dashboards
 ---
 
 ## Overview
-Dynamic dashboards will help user to gain insights more quickly.  
-(Use Google Chrome or full screen mode for video).  
+Tableau dashboards are great. They empower users to see what they want, and they are dynamic. Instead of creating graphs everytime you need, you can link data and use filters to gain insights instantly.
 
 - Type1: One page dashboard for easier navigation
+(Use Google Chrome or full screen mode)
   {% include video2.html id="/assets/images/video2.mp4" %}
 
 <br/>
 
 - Type2: Multiple pages dashboard segregated per topic
+(Use Google Chrome or full screen mode)
   {% include video3.html id="/assets/images/video3.mp4" %}  
   
 In this page, I will focus on Type2 dashboard. Click [here](https://public.tableau.com/app/profile/sylvia.kim) to test out.
