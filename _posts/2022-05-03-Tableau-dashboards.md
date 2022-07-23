@@ -26,10 +26,10 @@ Tableau dashboards are great. They empower users to see what they want. Instead 
 (Use Google Chrome or full screen mode)
   {% include video3.html id="/assets/images/video3.mp4" %}  
   
-In this page, I have prepared two types of documents. Scope of Work for Type1 and Report for Type2. 
+In this page, I have prepared two types of documents. Scope of Work for Type1 and Report for <a href="#type2">Type2</a>. 
+Click relevant documents or [this link](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
 
-Click [here](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
-
+<a name="type2">
 ### Tool Used
 * BigQuery
 * Tableau Desktop
