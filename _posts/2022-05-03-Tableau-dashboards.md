@@ -29,9 +29,11 @@ Tableau dashboards are great. They empower users to see what they want. Instead 
 In this page, I have prepared two types of documents. Scope of Work for <a href="#type1">Type1</a> and Report for <a href="#type2">Type2</a>. 
 Click relevant documents or [here](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
 
-<a name="type1">
-## Type1: Scope of Work
-
+<a name="type1">  
+# Type1: Scope of Work  
+##  
+## Type1: Scope of Work  
+###  
 Data Visualization Project   
 Date: Nov 12, 2021                                                                                        
 Data Analyst: Sylvia K.  
