@@ -70,7 +70,7 @@ Interactive dashboard: A data visualization user can search and view summarized 
  *Update has been stopped as of Nov 7, 2021.* 
   
 <a name="type2">
-## Type2: Report
+# Type2: Report
 
 ## Table of Contents
 1. Motivation  
