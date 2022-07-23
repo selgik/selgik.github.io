@@ -38,9 +38,11 @@ Data Analyst: Sylvia K.
 Client/Sponsor: N/A  
 
 ### 1. Purpose: 
-- The goal of this project is to visualize key COVID-19 data enabling easeir search and comparison overview.  
-- The project will organize daily and historical COVID-19 data using country, time and region filters. After applying filters, the project will illustrate daily and total number of confirmed cases/deaths/vaccinations and trend over time, including fatality rate change and case fluctuation over the last 14 days, as of the last update date of the dashboard. The project will also provide an overview on global/continental COVID-19 ranking summary on the map.  
-- The final deliverable will streamline search process by producing comprehensive report on COVID-19 status.
+The goal of this project is to visualize key COVID-19 data enabling easeir search and comparison overview.  
+    
+The project will organize daily and historical COVID-19 data using country, time and region filters. After applying filters, the project will illustrate daily and total number of confirmed cases/deaths/vaccinations and trend over time, including fatality rate change and case fluctuation over the last 14 days, as of the last update date of the dashboard. The project will also provide an overview on global/continental COVID-19 ranking summary on the map.  
+  
+The final deliverable will streamline search process by producing comprehensive report on COVID-19 status.
 
 ### 2. Scope / Major Project Activities:
   
@@ -53,10 +55,10 @@ Client/Sponsor: N/A
 |Deliver dashboard    | Deliver final dashboard with optimal type of filters.                                |
 
 ### 3. This project does not include:
-- Other than country-level data (dashboard will not provide either continental or city-level summary).
+Other than country-level data (dashboard will not provide either continental or city-level summary).
 
 ### 4. Deliverables:
-- Interactive dashboard: A data visualization user can search and view summarized COVID-19 data.
+Interactive dashboard: A data visualization user can search and view summarized COVID-19 data.
 
 ### 5. Schedule Overview / Major Milestones:
 | Milestone        |Date        |Description                                                              |
