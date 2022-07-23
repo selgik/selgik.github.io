@@ -20,8 +20,8 @@ Dynamic dashboards will help user to gain insights more quickly.
 (Use Google Chrome or full screen mode for video).  
 
 - Type1: One page dashboard for easier navigation
-  {% include video2.html id="/assets/images/video2.mp4" %}  
-  
+  {% include video2.html id="/assets/images/video2.mp4" %}
+
 <br/>
 
 - Type2: Multiple pages dashboard segregated per topic
