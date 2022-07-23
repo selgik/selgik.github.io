@@ -16,19 +16,19 @@ title: Tableau Dashboards
 ---
 
 ## Overview
-Tableau dashboards are great. They empower users to see what they want. Instead of creating graphs everytime you need, link data and use filters to gain insights instantly, so that Lilly from Sales or James from Finance can use them. 
+Tableau dashboards are great. They empower users to see what they want. Instead of creating graphs everytime you need, link data and build filters so that Lilly from Sales or James from Finance can get insights from them. 
 
 - Type1: One page dashboard for easier navigation  
 (Use Google Chrome or full screen mode)
   {% include video2.html id="/assets/images/video2.mp4" %}
-
-<br/>
-
+   
 - Type2: Multiple pages dashboard segregated per topic  
 (Use Google Chrome or full screen mode)
   {% include video3.html id="/assets/images/video3.mp4" %}  
   
-In this page, I will focus on Type2 dashboard. Click [here](https://public.tableau.com/app/profile/sylvia.kim) to test out.
+In this page, I have prepared two types of documents. Scope of Work for Type1 and Report for Type2. 
+
+Click [here](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
 
 ### Tool Used
 * BigQuery
