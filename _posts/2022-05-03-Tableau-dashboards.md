@@ -30,7 +30,7 @@ In this page, I have prepared two types of documents. Scope of Work for <a href=
 Click relevant documents or [here](https://public.tableau.com/app/profile/sylvia.kim) to test dashboards out.
 
 <a name="type1">
-## Type1: Scope of Work
+# Type1: Scope of Work
 
 Data Visualization Project   
 Date: Nov 12, 2021                                                                                        
@@ -44,13 +44,13 @@ The project will also provide an overview on global/continental COVID-19 ranking
 The final deliverable will streamline search process by producing comprehensive report on COVID-19 status.
 
 ### 2. Scope / Major Project Activities:
-| **Activity** | **Description** |
-| :---   | :- |
+| **Activity** | **Description** |  
+| :---   | :- |  
 |Data collection| Collect COVID-19 data from Our World in Data (https://ourworldindata.org/coronavirus)|                     
-|Decide story point| Decide on key figures to include in the dashboard.|
-|Identify relationship| Study whether there is relationship between key figures.|
-|Design report| Compare chart types and arrange information.|
-|Deliver dashboard| Deliver final dashboard with optimal type of filters.|
+|Decide story point| Decide on key figures to include in the dashboard.|  
+|Identify relationship| Study whether there is relationship between key figures.|  
+|Design report| Compare chart types and arrange information.|  
+|Deliver dashboard| Deliver final dashboard with optimal type of filters.|  
 
 ### 3. This project does not include:
 Other than country-level data (dashboard will not provide either continental or city-level summary).
