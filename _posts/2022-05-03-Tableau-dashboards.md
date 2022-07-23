@@ -40,7 +40,7 @@ Client/Sponsor: N/A
 ### 1. Purpose: 
 The goal of this project is to visualize key COVID-19 data enabling easeir search and comparison overview.  
     
-The project will organize daily and historical COVID-19 data using country, time and region filters. After applying filters, the project will illustrate daily and total number of confirmed cases/deaths/vaccinations and trend over time, including fatality rate change and case fluctuation over the last 14 days, as of the last update date of the dashboard. The project will also provide an overview on global/continental COVID-19 ranking summary on the map.  
+The project will organize daily and historical COVID-19 data using country, time and region filters. After applying filters, the project will illustrate daily and total number of confirmed cases/deaths/ vaccinations and trend over time, including fatality rate change and case fluctuation over the last 14 days, as of the last update date of the dashboard. The project will also provide an overview on global/continental COVID-19 ranking summary on the map.  
   
 The final deliverable will streamline search process by producing comprehensive report on COVID-19 status.
 
@@ -61,11 +61,13 @@ Other than country-level data (dashboard will not provide either continental or 
 Interactive dashboard: A data visualization user can search and view summarized COVID-19 data.
 
 ### 5. Schedule Overview / Major Milestones:
-|Milestone         | Date         | Description                                                                                   |
-|------------------|--------------|-----------------------------------------------------------------------------------------------|
-|Upload dashboard  | Oct 15, 2021 | Upload dashbaord to Tableau Public to enable user to interact with data.                      |        
-|Datasource update | Every 2 days | In order to accurately capture daily updates, datasource update is scheduled for every 2 days.|
- * Update has been stopped as of Nov 7, 2021.* 
+  
+| **Milestone**       | **Date**             | **Description**                                                                                |
+|---------------------|----------------------|------------------------------------------------------------------------------------------------|  
+|Upload dashboard     | Oct 15, 2021         | Upload dashbaord to Tableau Public to enable user to interact with data.                       |
+|Datasource update    | Every 2 days         | In order to accurately capture daily updates, data-source update is scheduled for every 2 days.|
+
+ *Update has been stopped as of Nov 7, 2021.* 
   
 <a name="type2">
 ## Type2: Report
@@ -73,16 +75,13 @@ Interactive dashboard: A data visualization user can search and view summarized 
 * BigQuery
 * Tableau Desktop
 
-### Information About Data Source
-* Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
-* Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services.
-
 ## Table of Contents
 1. Motivation  
 2. Project Workflow
 3. Part 1: Clean Data with SQL
 4. Part 2: Visualize Findings with Tableau
-5. Final Deliverable  
+5. Final Deliverable
+6. Data Source  
 
 ## 1. Movitation
 ### Problem
@@ -279,4 +278,8 @@ When I used parameter control, one of chart showed blank result.
 ### Dashboard Demos
 - Click this [link](https://public.tableau.com/app/profile/sylvia.kim) to test out.
 
+## 6. Information About Data Source
+- Data source: [NYC 311 Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-311?project=capable-blend-330013)  
+- Description: This data includes all New York City 311 service requests from 2010 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services.
+  
 *END*
