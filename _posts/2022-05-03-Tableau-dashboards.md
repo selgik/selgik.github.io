@@ -44,12 +44,6 @@ Client/Sponsor: N/A
 
 ### 2. Scope / Major Project Activities:
   
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-  
 | **Activity**        | **Description**                                                                      |  
 |---------------------|--------------------------------------------------------------------------------------|  
 |Data collection      | Collect COVID-19 data from Our World in Data (https://ourworldindata.org/coronavirus)|
@@ -63,7 +57,7 @@ Other than country-level data (dashboard will not provide either continental or 
 
 ### 4. Deliverables:
 |Deliverable           | Description/ Details                                                   |
-|:---------------------|:-----------------------------------------------------------------------|
+|----------------------|------------------------------------------------------------------------|
 |Interactive dashboard | A data visualization user can search and view summarized COVID-19 data.|
 
 ### 5. Schedule Overview / Major Milestones:
