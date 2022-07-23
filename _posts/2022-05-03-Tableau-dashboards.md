@@ -45,7 +45,7 @@ The final deliverable will streamline search process by producing comprehensive 
 
 ### 2. Scope / Major Project Activities:
 | **Activity** | **Description** |
-| :---   | :--- |
+| :---   | :- |
 |Data collection| Collect COVID-19 data from Our World in Data (https://ourworldindata.org/coronavirus)|                     
 |Decide story point| Decide on key figures to include in the dashboard.|
 |Identify relationship| Study whether there is relationship between key figures.|
