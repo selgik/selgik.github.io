@@ -22,7 +22,7 @@ feature_row:
     url: "https://selgik.github.io/Tableau-dashboards/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/splash/spl-gui-prj.png
+  - image_path: /assets/splash/fgui-prj.png
     title: "Python GUI"
     excerpt: "Do you want to streamline operation by automating tasks?"
     url: "https://selgik.github.io/Python-GUI/"
