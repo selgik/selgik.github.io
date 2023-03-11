@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/splash/sp-gui-prj.png
     title: "Python GUI"
-    excerpt: "Do you want to streamline operation by automating repetitive task?"
+    excerpt: "Do you want to streamline operation by automating tasks?"
     url: "https://selgik.github.io/Python-GUI/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
