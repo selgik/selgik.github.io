@@ -3,7 +3,7 @@ output:
   always_allow_html: true
   author: Sylvia K
   date: 2023-03-11
-  excerpt: project note2
+  excerpt: pythonprj
   knit: "(function (inputFile, encoding) { rmarkdown::render(inputFile,
     encoding=encoding, output_dir= “\\~/selgik.github.io/\\_posts”)})"
   layout: post
