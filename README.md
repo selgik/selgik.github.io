@@ -3,6 +3,8 @@ I am using this page to track changes, leave notes and reference pages. To revie
 
 ## 2023-03-12
 - created _posts/2023-03-11-Python-GUI.md and linked URL on splash page. Removed (1) changed date on _posts/2022-06-01-R-code-note.md (2) and removed from splash page
+- error observed: created or updated posts are not communicating with https://selgik.github.io/
+- how to tackle: do not proceed with multiple edits (in ex. creating post > editing > uploading file) without any break. Wait until previous action is done (progress notification will show green tick).
 
 ## 2022-05-16
 - created 2022-05-01-VBA-project.md and linked URL on splash page. Removed (1) 2022-02-04-project-note.md (2) 2022-02-05-vba-note.md
