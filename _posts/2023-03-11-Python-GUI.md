@@ -60,8 +60,8 @@ Distribute executable app automating repetitive tasks so that others can use wit
 
 ## 5. Converting Scripts Into App
 - Convert scripts to executable app for distribution. End-user would not need to install python but just launch the app.
-- PyInstaller module was used to convert python script into an app:
-    python -m PyInstaller --windowed script.py  
+- PyInstaller module was used to convert python script into an app:   
+> python -m PyInstaller --windowed script.py  
 
 ## 6. Final Deliverable   
 - User can open the app and click buttons to automate tasks.
