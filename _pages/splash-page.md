@@ -22,10 +22,10 @@ feature_row:
     url: "https://selgik.github.io/Tableau-dashboards/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/splash/pic3_r.png
-    title: "R Markdown"
-    excerpt: "Have you tried famicom? Different disk loads in different games. Same with R"
-    url: "https://rpubs.com/Sylvia_K/RCNotesv2"
+  - image_path: /assets/splash/gui-prj.png
+    title: "Python GUI"
+    excerpt: "Do you want to streamline operation by automating repetitive task?"
+    url: "https://selgik.github.io/Python-GUI/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
