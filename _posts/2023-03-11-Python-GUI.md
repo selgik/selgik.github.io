@@ -19,8 +19,8 @@ title: Python-GUI
 ## Overview 
 Automate tasks and distribute app to others  
 
- {% include gui-prj.html id="/assets/images/gui-prj.png" %}  
- 
+![gui](/assets/images/gui-prj.png)
+
 ## Table of Contents
 1. Motivation  
 2. GUI  
@@ -38,11 +38,11 @@ Automate tasks and distribute app to others
 ## 2. GUI  
 ### (1) version 1  
 - by opening the app, user will have buttons to use  
- {% include v1.html id="/assets/images/v1.png" %}  
+![v1](/assets/images/v1.png)  
          
 ### (2) version 2  
 - by opening the app, user will have forms to fill in and buttons to use  
- {% include v2.html id="/assets/images/v2.png" %}  
+![v2](/assets/images/v2.png)  
 
 ## 3. Action Flow   
 ### (1) version 1  
