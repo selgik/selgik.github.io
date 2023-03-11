@@ -17,7 +17,7 @@ output:
 title: Python-GUI
 ---
 ## Overview 
-Automate tasks and distribute app to others  
+Distribute executable app automating repetitive tasks so that others can use without installing python  
 
 ![gui](/assets/images/gui-prj.png)
 
